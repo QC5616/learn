@@ -1,8 +1,0 @@
-111
-+333
-<<<<<<< HEAD
-"why del?"
-plz tell me the reason!
-=======
-"why del?"  because it is useless.
->>>>>>> 7feb17278e7d99b4f76440f550766fcc5a66be19
